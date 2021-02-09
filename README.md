@@ -1,0 +1,2 @@
+# Notes
+Some mini projects 
